@@ -8,10 +8,9 @@ Home security is a serious concern that if improved, could prevent theft and ass
 G.T.F.O. Security System’s goal is to improve the state of current home security and decrease the amount of necessary user interference. In order to do this, G.T.F.O. uses facial recognition to detect intruders at an entrance of a home. When an intruder is detected, the system will notify the homeowner through their phone. If the intruder manages to break into the home, a turret will be waiting for the uninvited guest to defend the home and call the authorities. The biggest challenges that we will encounter when implementing this system include facial recognition accuracy and turret aim accuracy by which both must be calculated quickly as well. Another issue that extends from facial recognition is permitting the ability for the user to add “familiar” facial scans so that new faces that are not intruders are not detected as one.
 
 ## Network Diagrams
-![alt text](https://github.com/angelikab028/GTFO/blob/main/networkdiagram1.png?raw=true)
+![alt text](https://github.com/angelikab028/GTFO/assets/main/networkdiagram1.png?raw=true)
 
-![alt text](https://github.com/angelikab028/GTFO/blob/main/networkdiagram2.png?raw=true)
-
+![alt text](https://github.com/angelikab028/GTFO/assets/main/networkdiagram2.png?raw=true)
 
 ## Device Catalog
     - Jetson Nano #1, Facial Recognition:
